@@ -453,7 +453,9 @@ DND5E.skills = {
   "ani": "DND5E.SkillAni",
   "arc": "DND5E.SkillArc",
   "ath": "DND5E.SkillAth",
+  "brw": "DND5E.SkillBrw", 
   "dec": "DND5E.SkillDec",
+  "egn": "DND5E.SkillsEgn",
   "his": "DND5E.SkillHis",
   "ins": "DND5E.SkillIns",
   "itm": "DND5E.SkillItm",
@@ -466,7 +468,9 @@ DND5E.skills = {
   "rel": "DND5E.SkillRel",
   "slt": "DND5E.SkillSlt",
   "ste": "DND5E.SkillSte",
-  "sur": "DND5E.SkillSur"
+  "sts": "DND5E.SkillsSts",
+  "sur": "DND5E.SkillSur",
+  "wei": "DND5E.SkillsWei",
 };
 
 

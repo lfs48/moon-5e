@@ -120,9 +120,17 @@
             "value": 0,
             "ability": "str"
           },
+          "brw": {
+            "value": 0,
+            "ability": "str"
+          },
           "dec": {
             "value": 0,
             "ability": "cha"
+          },
+          "egn": {
+            "value": 0,
+            "ability": "int"
           },
           "his": {
             "value": 0,
@@ -172,9 +180,17 @@
             "value": 0,
             "ability": "dex"
           },
+          "sts": {
+            "value": 0,
+            "ability": "wis"
+          },
           "sur": {
             "value": 0,
             "ability": "wis"
+          },
+          "wei": {
+            "value": 0,
+            "ability": "str"
           }
         },
         "traits": {
