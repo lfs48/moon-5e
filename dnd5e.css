@@ -306,9 +306,9 @@
   margin: 0;
 }
 .dnd5e.sheet .sheet-header img.profile {
-  flex: 0 0 100px;
-  max-width: 100px;
-  height: 100px;
+  flex: 0 0 56px;
+  max-width: 56px;
+  height: 56px;
   object-fit: contain;
   border: none;
   border-right: 2px groove #eeede0;
@@ -321,6 +321,7 @@
   list-style: none;
   border-top: 2px groove #eeede0;
   border-bottom: none;
+  text-align: center;
 }
 .dnd5e.sheet .sheet-header .summary li {
   height: calc(100% - 6px);
